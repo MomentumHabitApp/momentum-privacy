@@ -1,2 +1,2 @@
-# momentum-privacy
+# Momentum Habits-privacy
 Privacy policy
